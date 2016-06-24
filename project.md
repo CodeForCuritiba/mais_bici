@@ -33,6 +33,9 @@
 Quais POI que estão aqui?
 (http://www.urbs.curitiba.pr.gov.br/PORTAL/itinerarios/)
 
+Estrutura cicloviária georeferenciada
+[pedido](https://github.com/CodeForCuritiba/dadosabertos_prefs/issues/10)
+
 ## Alerta (antigo Denuncie) ou Colabore
 Tipos de entrada:
 * Ponto de Interesse
@@ -81,3 +84,11 @@ Cadastro de usuário:
 
 Política de privacidade / Termos de uso
 ?
+
+--------------------------------------------------------------------------------------------------------
+## DESIGN
+(http://multimidia.curitiba.pr.gov.br/conteudos/maisbici/img/logoBicicleta.png)
+--------------------------------------------------------------------------------------------------------
+## WEB + TECH
+--------------------------------------------------------------------------------------------------------
+## DESIGN
