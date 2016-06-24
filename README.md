@@ -1,82 +1,26 @@
 # maisbici
 
-## Perfis de usuários / Personas?
-* Turista A
-* Turista B
-* Lazer A
-* Lazer B
-* Esporte A
-* Esporte B
-* Ciclista/Transporte A
-* Ciclista/Transporte B
-* Ciclista/Transporte C
-* Quer começar A
-* Quer começar B
+Projeto que pretende centralizar todas as informações sobre ciclomobilidade na cidade de Curitiba:
+- Mapa com estrutura cicloviária (ciclovias, ciclofaixas, vias calmas, ciclorrotas, paraciclos)
+- Pontos de interesse do ciclista
+- Roteiros: Poty, Museus, Parques 
+- Informações gerais: telefones úteis, serviços de táxi e ônibus parceiros
+- Informações sobre Segurança
+- Informações sobre Legislação
+- Agenda de eventos e grupos de pedal
+- Notícias locais
 
---------------------------------------------------------------------------------------------------------
-## MAPA
-### POI {
-* Paraciclos (já deve ter)
-* Bicicletarias
-* Aluguel de bicicletas
-* Praça de Bolso do Ciclista
+Funcionalidades/discussões futuras:
+- Cálculo de melhor rota
+- Registro de percursos dos usuários
+- Crie, salve e compartilhe sua própria rota
+- CANAL(?) de comunicação ("Alerta"||"Denuncie"||"Colabore"): indicação georeferenciada (ou não) de sugestões, problemas, acidentes, riscos, enquetes
+   E SE? Pudesse mandar vídeo curto? Desse ênfase quando respondem/resolvem? 
+- Recursos Sociais/Colaborativos: integração com redes, inclusão de POI privados, grupos, meta organizadores, novas camadas especializadas no mapa
+- Uso dos dados coletados pelo poder público
+- Inclusão do simulador de vantagens Ciclovida/UTFPR
+- Integração com futura rede "bike sharing"
+- Sinergias com Twente, academia, ONGs, órgãos públicos
+...
 
-* Terminais de ônibus (incidência com paraciclos?)
-
-* ? Terminal/ônibus com suporte p/ bike
-
-* ? Pontos Linha Turismo
-* ? Ponto de ônibus
-* ? Posto de gasolina
-* ? Carro elétrico ;-)
-
-Quais POI que estão aqui?
-(http://www.urbs.curitiba.pr.gov.br/PORTAL/itinerarios/)
-
-## Alerta (antigo Denuncie) ou Colabore
-Tipos de entrada:
-* Ponto de Interesse
-  * Paraciclo
-  * Estacionamento?
-  * Vestiário
-* Problemas
-  * Buraco
-  * Sinalização
-* Acidente (ou quase?) / Situação de risco (via não recomendada?)
-
-### ROTAS
-Vias Cicláveis, Ciclorrota Portão/PUC, Vias Calmas
-
-A SETRAN/IPPUC organizam da seguinte forma (importante ter consistência de cores):
-* Ciclovia** (vermelha)
-* Ciclofaixa VIA CALMA  (vermelha)
-* Ciclofaixa (vermelha)
-* Ciclorrota (azul)
-* + Paraciclos
-
-\* Via calma é ciclofaixa mas pelas características do projeto faz sentido diferenciar
-\*\* Só pra não esquecer que existem "Passeio Compartilhado"
-\*\*\* É importante ter os previstos em PROJETOS (ex: linha tracejada)
-
-ROTEIROS: Parques, temáticos (Poty, Museus...)
-Qual motivo abrir o app?
-Qual motivos para reabrir o app?
-
---------------------------------------------------------------------------------------------------------
-## APP
-
-Por que fazer cadastro?
-
-Ciclolazer: todo domingo, no centro cívico. Como aparecer no app/mapa?
-
-Como mostrar no mapa o trecho de uma bicicletada ou pedalada?
-
-
-### User generated content
-
-Cadastro de usuário:
-- Dados através da instalação do app
-- Dados através do cadastro de usuário por e-mail
-- Dados através do cadastro de usuário por rede social
-
-Política de privacidade / Termos de uso
+Desenvolvido pelo Code For Curitiba do [Code For Brazil](http://www.openbrazil.org/)
