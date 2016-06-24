@@ -2,6 +2,7 @@
 
 ## Mapa Mental
 [Conjunto de informações levantadas](https://www.mindmeister.com/709692742)
+\* Tem alguma idéia/contribução? Dê uma olhada no mapa.
 
 ## Perfis de usuários / Personas?
 * Turista A
