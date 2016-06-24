@@ -1,5 +1,8 @@
 # maisbici
 
+## Mapa Mental
+[Conjunto de informações levantadas](https://www.mindmeister.com/709692742)
+
 ## Perfis de usuários / Personas?
 * Turista A
 * Turista B
@@ -88,7 +91,18 @@ Política de privacidade / Termos de uso
 --------------------------------------------------------------------------------------------------------
 ## DESIGN
 (http://multimidia.curitiba.pr.gov.br/conteudos/maisbici/img/logoBicicleta.png)
+(danyllodhol.wix.com/maisbici)
+Danyllo? Leandro?
+
 --------------------------------------------------------------------------------------------------------
 ## WEB + TECH
+Angular
+[MEAN?](http://mean.io/#!/)
+Matheus?
+
 --------------------------------------------------------------------------------------------------------
 ## DESIGN
+
+--------------------------------------------------------------------------------------------------------
+## DESENV
+- Histórico / Atas?
