@@ -10,7 +10,7 @@ Projeto que pretende centralizar todas as informações sobre ciclomobilidade na
 - Agenda de eventos e grupos de pedal
 - Notícias locais
 
-Funcionalidades/discussões futuras:
+## Funcionalidades/discussões futuras:
 - Cálculo de melhor rota
 - Registro de percursos dos usuários
 - Crie, salve e compartilhe sua própria rota
@@ -25,7 +25,7 @@ Funcionalidades/discussões futuras:
 
 ## Quer colaborar?
 - Sendo "CODER" ou não, sua ajuda é muito bem vinda!
-- Participe dos encontros do CodeForCuritiba vendo o [MeetUp Open Brazil](http://www.meetup.com/pt-BR/OpenBrazil/) que rolam atualmente às quartas de noite (Rua Solimões, 160 - a sede da Secretaria de Informação e Tecnologia da Prefeitura) e sábados (Impact Hub Curitiba).
+- Participe dos encontros do CodeForCuritiba vendo o [MeetUp Open Brazil](http://www.meetup.com/pt-BR/OpenBrazil/) atualmente às quartas de noite (Rua Solimões, 160 - a sede da Secretaria de Informação e Tecnologia da Prefeitura) e sábados (Impact Hub Curitiba).
 - Entre em contato:
 
 ## Mais info
