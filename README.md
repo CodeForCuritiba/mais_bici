@@ -1,5 +1,4 @@
-# <img src="https://github.com/CodeForCuritiba/mais_bici/blob/master/docs/images/id/logo.png" height="100" alt="MaisBICI">
-<img src="https://github.com/CodeForCuritiba/mais_bici/blob/master/docs/images/id/logoBicicleta.png" height="100" alt="Mais Bicicleta Curitiba Logo">
+# <img src="https://github.com/CodeForCuritiba/mais_bici/blob/master/docs/images/id/logo.png" height="100" alt="MaisBICI"> <img src="https://github.com/CodeForCuritiba/mais_bici/blob/master/docs/images/id/logoBicicleta.png" height="100" alt="Mais Bicicleta Curitiba Logo">
 <img src="https://github.com/CodeForCuritiba/mais_bici/blob/master/docs/images/id/openbrazil.jpeg" height="100" alt="Open Brazil">
 <img src="https://github.com/CodeForCuritiba/mais_bici/blob/master/docs/images/id/codeforcuritiba.png" height="100" alt="Code For Curitiba">
 
