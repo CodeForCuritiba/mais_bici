@@ -1,4 +1,6 @@
-# maisbici
+# Mais Bici
+<img src="https://github.com/CodeForCuritiba/mais_bici/blob/master/docs/images/openbrazil.jpeg" height="100" alt="Open Brazil">
+<img src="https://github.com/CodeForCuritiba/mais_bici/blob/master/docs/images/codeforcuritiba.png" height="100" alt="Code For Curitiba">
 
 Projeto que pretende centralizar todas as informações sobre ciclomobilidade na cidade de Curitiba:
 - Mapa com estrutura cicloviária (ciclovias, ciclofaixas, vias calmas, ciclorrotas, paraciclos)
