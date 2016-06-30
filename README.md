@@ -23,4 +23,13 @@ Funcionalidades/discussões futuras:
 - Sinergias com Twente, academia, ONGs, órgãos públicos
 ...
 
+## Quer colaborar?
+- Sendo "CODER" ou não, sua ajuda é muito bem vinda!
+- Participe dos encontros do CodeForCuritiba vendo o [MeetUp Open Brazil](http://www.meetup.com/pt-BR/OpenBrazil/) que rolam atualmente às quartas de noite (Rua Solimões, 160 - a sede da Secretaria de Informação e Tecnologia da Prefeitura) e sábados (Impact Hub Curitiba).
+- Entre em contato:
+
+## Mais info
+- No código
+- [Na Wiki](https://github.com/CodeForCuritiba/mais_bici/wiki)
+
 Desenvolvido pelo Code For Curitiba do [Code For Brazil](http://www.openbrazil.org/)
