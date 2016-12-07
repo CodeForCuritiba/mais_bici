@@ -30,6 +30,19 @@ Projeto que pretende centralizar todas as informações sobre ciclomobilidade na
 - Participe dos encontros do CodeForCuritiba vendo o [MeetUp Open Brazil](http://www.meetup.com/pt-BR/OpenBrazil/) atualmente às quartas de noite (Rua Solimões, 160 - a sede da Secretaria de Informação e Tecnologia da Prefeitura) e sábados (Impact Hub Curitiba).
 - Entre em contato:
 
+## Como instalar?
+
+### Pre-requisitos
+
+NodeJS, Ionic v1
+
+### Passo a passo
+
+- `$> clone https://github.com/CodeForCuritiba/mais_bici.git`
+- `$> cd mais_bici`
+- `$> npm install`
+- `$> ionic serve`
+
 ## Mais info
 - No código
 - [Na Wiki](https://github.com/CodeForCuritiba/mais_bici/wiki)
