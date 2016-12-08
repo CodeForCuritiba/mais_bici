@@ -43,6 +43,8 @@ NodeJS, Ionic v1
 - `$> npm install`
 - `$> ionic serve`
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Mais info
 - No código
 - [Na Wiki](https://github.com/CodeForCuritiba/mais_bici/wiki)
