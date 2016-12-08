@@ -47,4 +47,4 @@ NodeJS, Ionic v1
 - No código
 - [Na Wiki](https://github.com/CodeForCuritiba/mais_bici/wiki)
 
-Desenvolvido pelo Code For Curitiba do [Code For Brazil](http://www.openbrazil.org/)
+Desenvolvido pelo [Code For Curitiba](http://www.codeforcuritiba.org) do [Code For Brazil](http://www.openbrazil.org/)
