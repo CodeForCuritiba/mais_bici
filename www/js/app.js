@@ -51,8 +51,7 @@
 
     $scope.map = new google.maps.Map(document.getElementById("map"), mapOptions);
 
-//    loadKmlLayer('http://localhost:8100/img/cicloviarios.kml', $scope.map);
-    loadKmlLayer('https://developers.google.com/maps/documentation/javascript/examples/kml/westcampus.kml', $scope.map);
+    loadKmlLayer('https://raw.githubusercontent.com/CodeForCuritiba/mais_bici/master/www/kml/cicloviarios.kml', $scope.map);
 
   }, function(error){
     console.log("Could not get location");
