@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>CICLOVIA</name>
+</Folder>
+<Folder><name>Features__TIPO_</name>
+</Folder>
+<Folder><name>CICLOFAIXA__VIA_CALMA_</name>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.260544775152503,-25.435157947308301,0 -49.262532859734797,-25.435932461754408,0 -49.264935371677602,-25.436858245974999,0 -49.267417701452899,-25.437806046287601,0 -49.268535410165093,-25.438241526166099,0 -49.270147875435903,-25.4388611283335,0 -49.272221593961604,-25.4396597520116,0 -49.273126206185999,-25.440002364525402,0 -49.274172093066902,-25.440404112484099,0 -49.275297685797099,-25.4408337691168,0 -49.2765915329202,-25.441333428607599,0 -49.277731661107502,-25.441767385349699,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.2876169008671,-25.446350525976399,0 -49.2876111379436,-25.446392688191999,0 -49.287634532867287,-25.446565399237901,0 -49.287740955278402,-25.4471707628208,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.288185692063202,-25.445792062170799,0 -49.288157501735597,-25.445956149935299,0 -49.28805532317201,-25.446092951198299,0 -49.287934198604397,-25.446205248353898,0 -49.287645800995698,-25.446316843864299,0 -49.2876169008671,-25.446350525976399,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.287495355133899,-25.447088132105399,0 -49.287434873795412,-25.446749256818499,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.287434873795412,-25.446749256818499,0 -49.287396346316292,-25.446689311102499,0 -49.287349158124599,-25.446636687206801,0 -49.286861707723702,-25.446349143231199,0 -49.286310511804601,-25.445996262098099,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.286310511804601,-25.445996262098099,0 -49.286301536017909,-25.445903495967801,0 -49.286548938568401,-25.445493468133701,0 -49.286560004420693,-25.445441982801398,0 -49.286551772796003,-25.445400128451698,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.277731661107502,-25.441767385349699,0 -49.2778507976019,-25.441812730541301,0 -49.278805488609102,-25.442179358555801,0 -49.279969617390201,-25.442627027544599,0 -49.28260509856009,-25.443633854762599,0 -49.283618940317602,-25.444022258475002,0 -49.285645334186412,-25.444800203125599,0 -49.286696523449002,-25.445198407944499,0 -49.288108719032799,-25.445747124654002,0 -49.288185692063202,-25.445792062170799,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.286551772796003,-25.445400128451698,0 -49.286528772739103,-25.445366543454899,0 -49.286491217121601,-25.4453377659975,0 -49.286002360118502,-25.445150027133501,0 -49.284943237141597,-25.444748601021001,0 -49.282654682491007,-25.443872563521602,0 -49.279701889884898,-25.442738849649199,0 -49.276579518509692,-25.441542090040301,0 -49.276432027706797,-25.441485326118698,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.261592828070597,-25.4358665909221,0 -49.2615327495188,-25.4358572833222,0 -49.26127831394421,-25.435853097714599,0 -49.26110389298389,-25.435854552083509,0 -49.260374275533998,-25.4358518666508,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.276432027706797,-25.441485326118698,0 -49.274158815725713,-25.4406104135834,0 -49.271825384007791,-25.439721952641101,0 -49.270092101131787,-25.439057542138809,0 -49.268460342367902,-25.438431847276501,0 -49.267485268996801,-25.4380496636998,0 -49.2652664276102,-25.437195301339798,0 -49.263698953356503,-25.436594946426808,0 -49.263439519926791,-25.436488651943009,0 -49.262393692136897,-25.4360880039041,0 -49.262171332755699,-25.436009124954499,0 -49.26173769985801,-25.435889035562099,0 -49.261592828070597,-25.4358665909221,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.253398131903602,-25.407229416883201,0 -49.254105031780497,-25.407998598821401,0 -49.254433926661108,-25.408353635586799,0 -49.255004405296802,-25.408968151672799,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.256104926133197,-25.410157278472099,0 -49.256204034540602,-25.410264065327301,0 -49.256838491233403,-25.4109523553008,0 -49.257559777340397,-25.411730054414701,0 -49.258057025687002,-25.4122674212493,0 -49.258607378043699,-25.4128615505578,0 -49.259316990610991,-25.413629545988101,0 -49.259450375921901,-25.4137732508295,0 -49.260066736621702,-25.4144422053974,0 -49.260191109214901,-25.414572663802101,0 -49.260742815193908,-25.415165607751501,0 -49.261161085490301,-25.415618428643501,0 -49.261206863425699,-25.4156676850499,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.254834838584991,-25.409097876016698,0 -49.254549940371902,-25.408789748038799,0 -49.2538546251646,-25.4080374252678,0 -49.253222622842998,-25.407357595380901,0 -49.2532001808488,-25.407348040672598,0 -49.253175935204801,-25.407345432736999,0 -49.253151156049,-25.407350168525301,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.2610371298261,-25.415794373275101,0 -49.260980603577302,-25.415732143100801,0 -49.260235897440403,-25.414933880204799,0 -49.260042985429799,-25.4147225904157,0 -49.2592659878974,-25.413884528309701,0 -49.259144279800012,-25.413751710410601,0 -49.258382796831299,-25.4129329377907,0 -49.258246886390303,-25.412782036092398,0 -49.257511333636813,-25.41198984211,0 -49.25727437949201,-25.411732641385001,0 -49.256679972372801,-25.411093795212199,0 -49.256173737722889,-25.410541984295399,0 -49.255935456274699,-25.410286763299101,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.247417582403997,-25.401090691621899,0 -49.247365714975302,-25.401035385626201,0 -49.247189646802809,-25.4008445846593,0 -49.246730012874501,-25.400349432035199,0 -49.246014035658291,-25.3995777206535,0 -49.245555763167303,-25.3990801933444,0 -49.244720735822398,-25.398176874806101,0 -49.244002206505002,-25.3974015418165,0 -49.243385984795601,-25.3967349175843,0 -49.242645417332902,-25.395939011808199,0 -49.241972302990199,-25.395207206960801,0 -49.241271900358491,-25.394453575431299,0 -49.240890406615698,-25.3940452534892,0 -49.240845064051193,-25.394000514309301,0 -49.240751576590512,-25.393920690408699,0 -49.239933973760706,-25.393033030868999,0 -49.239937479701901,-25.393020964731999,0 -49.239818208915104,-25.392884779219202,0 -49.239209733189099,-25.392224184924199,0 -49.238726868324903,-25.391703649956401,0 -49.238170271830001,-25.3910998247141,0 -49.238030450308798,-25.3909500536918,0 -49.2373663665077,-25.390233864399399,0 -49.236940470297412,-25.3897749176442,0 -49.2361844910169,-25.3889596885641,0 -49.235542445919698,-25.388266448131599,0 -49.234948333694803,-25.3876227478072,0 -49.234421505752699,-25.387053901159099,0 -49.233749680649602,-25.386330439112399,0 -49.232997651734799,-25.3855176295192,0 -49.232292225203601,-25.384755539043201,0 -49.232225484058901,-25.3846836009469,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.232492925590002,-25.384660683042409,0 -49.232604725378998,-25.384783180641701,0 -49.233143194095703,-25.385364118576401,0 -49.233751535084302,-25.386022327294899,0 -49.234392278918797,-25.386713169989498,0 -49.234963140245597,-25.3873279298356,0 -49.235651752565097,-25.388073085623098,0 -49.236249815933412,-25.388716830699501,0 -49.236590211796901,-25.389087569611501,0 -49.237317707864797,-25.3898725967079,0 -49.237474375983503,-25.390039291479098,0 -49.238210911726497,-25.3908363662201,0 -49.238402553754703,-25.391039307460499,0 -49.238911274956102,-25.3915900105597,0 -49.239263344591294,-25.391972825865199,0 -49.239597357407703,-25.392331536440299,0 -49.239948098109807,-25.392706521984699,0 -49.240116629828997,-25.392892941064702,0 -49.239937479701901,-25.393020964731999,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.240845064051193,-25.394000514309301,0 -49.241023627827303,-25.3938670346257,0 -49.241422631064012,-25.394304894207298,0 -49.241791546541599,-25.394705820203399,0 -49.242226559107699,-25.395173223143001,0 -49.242761277495802,-25.395746915844502,0 -49.242925656296492,-25.395926834318509,0 -49.243358063728699,-25.396393007903502,0 -49.243714054048503,-25.3967794424922,0 -49.244020867724601,-25.397111546355799,0 -49.244369147130797,-25.3974859434948,0 -49.244479145777603,-25.397607884566298,0 -49.244753614618297,-25.397903768550499,0 -49.245081156361913,-25.398257614792001,0 -49.245409998919797,-25.398612669399899,0 -49.245654650832698,-25.3988795341448,0 -49.2460689677727,-25.399325180585201,0 -49.2464185216921,-25.3997031728758,0 -49.246729261089698,-25.400037705416,0 -49.247107344059309,-25.4004435064438,0 -49.247549015973597,-25.4009193697276,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.226825894405401,-25.378536970317299,0 -49.226907947207593,-25.378545736401001,0 -49.227700276594597,-25.379417822131,0 -49.228462418297902,-25.3802534691171,0 -49.228635833682297,-25.380441871051001,0 -49.229220729963991,-25.381081901504398,0 -49.229317764414503,-25.3811893637738,0 -49.229964751497597,-25.3818994079978,0 -49.230112317853489,-25.382057638706709,0 -49.230721819707902,-25.382724234538198,0 -49.230904253534192,-25.3829258804424,0 -49.231512433034098,-25.3835936508864,0 -49.231639321239498,-25.383727745469908,0 -49.2321738009718,-25.384311025148399,0 -49.232492925590002,-25.384660683042409,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.232225484058901,-25.3846836009469,0 -49.232142075964497,-25.384593697104901,0 -49.231581739000397,-25.383980247260698,0 -49.231165088544692,-25.383521396390101,0 -49.230485678039599,-25.382779914794401,0 -49.2299435189734,-25.3821833991428,0 -49.229807693804197,-25.382031280955701,0 -49.229186527307498,-25.381353792491499,0 -49.229072648348208,-25.381229407796209,0 -49.228250904700197,-25.380333329738701,0 -49.227470641951008,-25.379478355150098,0 -49.226861523995197,-25.378817060123001,0 -49.226779404757103,-25.378765987151201,0 -49.226714372910301,-25.3786936557653,0 -49.226861192166609,-25.378581880011708,0 -49.226830514395502,-25.378548847544199,0 -49.226825894405401,-25.378536970317299,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.266801573967498,-25.422491910690798,0 -49.266862647850601,-25.422555543572798,0 -49.26745281075641,-25.423039040970401,0 -49.267897361383987,-25.4234049692597,0 -49.268115406624901,-25.423523180617199,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.267910520576699,-25.423658990418598,0 -49.267729519526007,-25.423539655586598,0 -49.267545327872199,-25.423389806416701,0 -49.2671783152324,-25.423088889857102,0 -49.266661306753598,-25.422663751984299,0 -49.266606379491598,-25.422619415608001,0 -49.266588271997591,-25.422580804532501,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.261206863425699,-25.4156676850499,0 -49.2612958969004,-25.415759918840099,0 -49.261730589350591,-25.416227848160698,0 -49.26219884617079,-25.416732286666001,0 -49.262932302466297,-25.417521558554299,0 -49.263107389251502,-25.417711939980808,0 -49.263861023956501,-25.418521049293901,0 -49.264002356911803,-25.418688333228101,0 -49.264382750346591,-25.419101440657499,0 -49.264774231590899,-25.419522391334901,0 -49.265240824182499,-25.420000852016599,0 -49.265646590689407,-25.420410518421001,0 -49.265829360253299,-25.420596601973799,0 -49.265904480679303,-25.4206775085859,0 -49.265970121236798,-25.420777412191999,0 -49.266018875667498,-25.420862785504301,0 -49.266203248068408,-25.421304472136601,0 -49.266324201666613,-25.421582982089198,0 -49.266455692918001,-25.421860423872801,0 -49.266683545691798,-25.422296652103199,0 -49.266774531179699,-25.422463736943101,0 -49.266801573967498,-25.422491910690798,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.255004405296802,-25.408968151672799,0 -49.255102100519402,-25.409073385632201,0 -49.255553978669901,-25.4095636448722,0 -49.256104926133197,-25.410157278472099,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.255935456274699,-25.410286763299101,0 -49.255589667859098,-25.409916394736701,0 -49.25489048173359,-25.4091580596406,0 -49.254834838584991,-25.409097876016698,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.247549015973597,-25.4009193697276,0 -49.247591578053701,-25.4009652243953,0 -49.248042149609802,-25.401450711835199,0 -49.248214313105301,-25.401639078308499,0 -49.248667451891897,-25.4021293702809,0 -49.249158202865509,-25.402655940701401,0 -49.2493705026966,-25.402887778431001,0 -49.2498107121217,-25.403363582267499,0 -49.250305347307503,-25.403894973328399,0 -49.250543602752209,-25.404151004087709,0 -49.251097739368902,-25.404751175021801,0 -49.251475853798198,-25.405156966145402,0 -49.251791791343813,-25.405497521589702,0 -49.252123462651397,-25.4058497611022,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.252021522061099,-25.4060648510318,0 -49.251611248794497,-25.405616001556002,0 -49.2512772328895,-25.405252537983099,0 -49.250869346450912,-25.404814146382101,0 -49.250271164624699,-25.404168065553399,0 -49.250145618204002,-25.404029223741201,0 -49.249517618191987,-25.403354121617902,0 -49.248881909262401,-25.4026669807422,0 -49.248045449527197,-25.401768440307201,0 -49.247908302737699,-25.401613934056599,0 -49.247417582403997,-25.401090691621899,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.253012930090712,-25.407452225667601,0 -49.25285131152399,-25.407395449459901,0 -49.251972642753699,-25.406441153118301,0 -49.251944091400098,-25.406412180337401,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.252480028232902,-25.405916900119902,0 -49.252585332346399,-25.405862433296399,0 -49.252628455939309,-25.4058656977287,0 -49.252926379440709,-25.4061826811919,0 -49.2535425355466,-25.406856873156801,0 -49.253589698195903,-25.407014223247199,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.266588271997591,-25.422580804532501,0 -49.266544573385993,-25.422487622433,0 -49.266397592924591,-25.422199759960101,0 -49.266294057568103,-25.422001017711899,0 -49.26610125733859,-25.421600626173401,0 -49.2659204076827,-25.421170224061999,0 -49.265823982985196,-25.420948182809902,0 -49.265784523356402,-25.4208646471496,0 -49.265744757420002,-25.420802645125001,0 -49.265695338600104,-25.4207522201954,0 -49.2654463761817,-25.420488998264702,0 -49.265262584658501,-25.420303108279899,0 -49.265114261364701,-25.420147609174201,0 -49.264993674860399,-25.419999147246902,0 -49.264717501353211,-25.419726571067201,0 -49.264604012623707,-25.4196380391963,0 -49.264512814926697,-25.41953996729,0 -49.26435816667361,-25.419372963475698,0 -49.263948862634408,-25.4189327661284,0 -49.263679112269799,-25.4186483983298,0 -49.263258564380202,-25.418191920858799,0 -49.262876495356998,-25.417781335002399,0 -49.262744823049999,-25.417641099894499,0 -49.262041049246399,-25.416881587853801,0 -49.261841337044302,-25.4166656319899,0 -49.261163286892192,-25.4159353115469,0 -49.2610371298261,-25.415794373275101,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.251944091400098,-25.406412180337401,0 -49.252033720245407,-25.406312254554599,0 -49.252027278428407,-25.4062862513201,0 -49.251990333891591,-25.406159668445198,0 -49.252017245511787,-25.406125164507099,0 -49.252023431227009,-25.406109760441709,0 -49.252027942182309,-25.406092400724201,0 -49.252025625873799,-25.406075735106,0 -49.252021522061099,-25.4060648510318,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.252123462651397,-25.4058497611022,0 -49.252165326936101,-25.405891146298199,0 -49.252186481396102,-25.405894837307301,0 -49.252208450519902,-25.405894410853701,0 -49.252245922098403,-25.4058694030889,0 -49.252349451909097,-25.4059380492243,0 -49.252380001386399,-25.4059205262955,0 -49.252415641092902,-25.405917512196201,0 -49.252458715161602,-25.4059242139096,0 -49.252480028232902,-25.405916900119902,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.253589698195903,-25.407014223247199,0 -49.253406652650902,-25.4071551319497,0 -49.2533904229808,-25.407177638960299,0 -49.2533892591754,-25.407205828038901,0 -49.253398131903602,-25.407229416883201,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.253151156049,-25.407350168525301,0 -49.253012930090712,-25.407452225667601,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.225065058374,-25.376521506883201,0 -49.225282265089902,-25.376765249392999,0 -49.2252730717573,-25.3768388762374,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.2252730717573,-25.3768388762374,0 -49.2255422868311,-25.377134123479099,0 -49.225782792051596,-25.377394367204602,0 -49.2260831627692,-25.3777239104984,0 -49.226442346870101,-25.3781173662646,0 -49.226825894405401,-25.378536970317299,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLOFAIXA (VIA CALMA)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLOFAIXA__VIA_CALMA_">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.225166150298897,-25.3767129692603,0 -49.225237233851303,-25.376791988139701,0 -49.2252730717573,-25.3768388762374,0</coordinates></LineString>
+  </Placemark>
+</Folder>
+<Folder><name>CICLORROTA</name>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.279278234736807,-25.463261504405502,0 -49.280391825814903,-25.464271242035,0 -49.281497342213903,-25.4652666895464,0 -49.282604021027304,-25.4662635381206,0 -49.283713434854093,-25.467271295284601,0 -49.284827998605898,-25.468271779568699,0 -49.285936797214397,-25.4692673374417,0 -49.2870401988962,-25.470282131268998,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.274885414670003,-25.453518600395299,0 -49.275178541024403,-25.4535320982414,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.25884867049939,-25.446096983998299,0 -49.260099911054802,-25.446581832425899,0 -49.261332675003999,-25.447064361189899,0 -49.262558460883298,-25.447531794765201,0 -49.263630740354699,-25.447956115134598,0 -49.265451678114502,-25.448661168615399,0 -49.266439613527702,-25.4490440178642,0 -49.267391974918397,-25.449406378207499,0 -49.268240992054707,-25.4497381359141,0 -49.269428174149702,-25.450186725148502,0 -49.2704484847564,-25.450580417000602,0 -49.271985822767697,-25.451169499250501,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.275178539227497,-25.453532096567208,0 -49.2755674636865,-25.454413186844299,0 -49.276020553685903,-25.455433966700799,0 -49.276074460618808,-25.455511970998099,0 -49.27650134993489,-25.456457964624509,0 -49.276975550323897,-25.457481408761399,0 -49.277438431176392,-25.4585054664492,0 -49.278015475611603,-25.459769324792799,0 -49.278504368604999,-25.460842330599199,0 -49.278655930652199,-25.4612078968491,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.252218160866803,-25.4435305724882,0 -49.252867066399887,-25.4437846767274,0 -49.253853596336299,-25.444172378277798,0 -49.254861297240701,-25.4445657415691,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.279729110000197,-25.462291185262401,0 -49.279278236533898,-25.463261506079601,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.254861297240701,-25.4445657415691,0 -49.255781480134502,-25.4449228479201,0 -49.257076154531603,-25.445418432130499,0 -49.257954688486393,-25.445752107436501,0 -49.258534989245597,-25.445981364505801,0 -49.25884867049939,-25.446096983998299,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.275362939358793,-25.452450658616709,0 -49.274885414670003,-25.453518600395299,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.293218398546003,-25.4677167503534,0 -49.292427812853902,-25.468029383676001,0 -49.2912686104589,-25.468477236972198,0 -49.290111779392902,-25.4689145639787,0 -49.28914368418981,-25.4692805399023,0 -49.289075316104601,-25.469333605263401,0 -49.288858545795499,-25.4697829022763,0 -49.288807653974402,-25.469845464855901,0 -49.288601143356587,-25.470297448252101,0 -49.288179666992299,-25.4712183055093,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.250728003962003,-25.442964208843101,0 -49.251506430312887,-25.443259805093099,0 -49.251820303320898,-25.443383340224909,0 -49.252218160866803,-25.4435305724882,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.271985822767697,-25.451169499250501,0 -49.273125267021598,-25.451598562371899,0 -49.274062455932899,-25.451953573303701,0 -49.275362937562001,-25.452450656942599,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.278655932449297,-25.461207898523298,0 -49.278767747704102,-25.461425375295299,0 -49.279729110000197,-25.462291185262401,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.287040201300499,-25.4702821329501,0 -49.288087112382101,-25.4712081596677,0 -49.288179668789603,-25.4712183071833,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.3220951451842,-25.500941117625501,0 -49.322335845401497,-25.501659794867798,0 -49.322391327344093,-25.501819323413699,0 -49.322409685774801,-25.5018583539091,0 -49.322449830237197,-25.501976177661099,0 -49.322675121843609,-25.502658565975899,0 -49.3227809883061,-25.5029865919795,0 -49.322904380279901,-25.503341900848401,0 -49.323013864882597,-25.503676787608502,0 -49.323015759287202,-25.5037120204628,0 -49.323229900413899,-25.504349198183601,0 -49.323457794841502,-25.5050341504862,0 -49.32356547581341,-25.5053596829576,0 -49.323802074687499,-25.5060575468198,0 -49.324034288586702,-25.5067592928885,0 -49.324143969043703,-25.507084331534902,0 -49.324370013301497,-25.507770142526301,0 -49.324593195505699,-25.5084470875316,0 -49.324683854240703,-25.508716304801901,0 -49.324709308430201,-25.508764911999499,0 -49.324727326967491,-25.508805628355908,0 -49.324885168690997,-25.509283326896899,0 -49.324935570100997,-25.509450921423699,0 -49.325161807275691,-25.510138734322499,0 -49.325212422297398,-25.510290983450101,0 -49.325260003326598,-25.5104468093249,0 -49.325503534977301,-25.5111790563776,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.322982943256598,-25.500693977129501,0 -49.323215654495392,-25.5014152705964,0 -49.323221020350204,-25.501458666408801,0 -49.323260083368602,-25.501582797333,0 -49.323314570925312,-25.5017423136525,0 -49.323338998112092,-25.501774191137809,0 -49.323554812452102,-25.502423066079,0 -49.323660818429801,-25.5027411625234,0 -49.3237781699994,-25.503101818282609,0 -49.323884983451109,-25.503443528172308,0 -49.324112451035496,-25.504103237682699,0 -49.324336798600299,-25.5047829046899,0 -49.3244478109292,-25.505104856643101,0 -49.324498738426499,-25.505262663371099,0 -49.324677599993308,-25.5058168981789,0 -49.324902699711899,-25.5065146307325,0 -49.325010614037609,-25.506839067856099,0 -49.325240913712499,-25.5075206068244,0 -49.325462301483803,-25.5081993359113,0 -49.325568241587497,-25.508522846984601,0 -49.32559157603211,-25.5085619339741,0 -49.325756909253101,-25.509050433670801,0 -49.3258074495457,-25.509208098368699,0 -49.3260346864718,-25.509895921535499,0 -49.326086271954203,-25.510049987204599,0 -49.326242869664,-25.510523038889101,0 -49.326359430311001,-25.510870143401299,0 -49.3263923865102,-25.5109328128102,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.325503533178797,-25.511179054704002,0 -49.325947984404102,-25.511054128188398,0 -49.326392384711809,-25.510932811136598,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.333954516305702,-25.526173609933799,0 -49.334766658487197,-25.526433511109399,0 -49.335220662745499,-25.526582210999099,0 -49.335644225484401,-25.526718797030401,0 -49.336109867827503,-25.526870366170499,0 -49.336683410942008,-25.527057088012199,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.331969615615307,-25.5352425897652,0 -49.332394901000612,-25.534907737432601,0 -49.332788435657307,-25.534599206912102,0 -49.332881645960498,-25.534578317199699,0 -49.333582509085609,-25.534024486427899,0 -49.333712782886003,-25.5339323187739,0 -49.333986674154801,-25.533621808078301,0 -49.334235178134001,-25.533257831216201,0 -49.334331184977799,-25.533055919159601,0 -49.334473884588597,-25.532711238958999,0 -49.334687731011392,-25.532135077006899,0 -49.334720547382297,-25.532072858920099,0 -49.334955220383797,-25.531476847167401,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.335637027341299,-25.5297108345171,0 -49.335717479483598,-25.529719181956501,0 -49.336119563882001,-25.529852410223,0 -49.336596536850898,-25.5300081118178,0 -49.337081687331697,-25.530162457737401,0 -49.338056937503701,-25.530471026913599,0 -49.338059737095712,-25.5304719199336,0 -49.338562363425503,-25.530637472752002,0 -49.339040527767601,-25.5307852006821,0 -49.339568907619899,-25.530952990044899,0 -49.339647818804899,-25.531030860957799,0 -49.340561219707212,-25.5313263698153,0 -49.342445241427193,-25.531950553366901,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.335637027341299,-25.5297108345171,0 -49.336064472999702,-25.5286044148766,0 -49.336347384219003,-25.527909170114601,0 -49.336683410942008,-25.527057088012199,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.334955220383797,-25.531476847167401,0 -49.335431195669301,-25.531625349369499,0 -49.335916663544189,-25.531788767323199,0 -49.336389323764493,-25.531946188541699,0 -49.336861070013299,-25.532091899033301,0 -49.337367466216101,-25.5322581827505,0 -49.337860718123501,-25.532416717486701,0 -49.338337268184603,-25.532577481248101,0 -49.338856813149597,-25.532754435410212,0 -49.338955198048701,-25.5328119731142,0 -49.339375986694598,-25.532947228381101,0 -49.339859986005393,-25.533101359714699,0 -49.340334128893602,-25.533249273518699,0 -49.340825086998898,-25.5334056709357,0 -49.341325905118502,-25.533566809803201,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.335066702132799,-25.529515712411399,0 -49.335503355252499,-25.528421883287699,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.335066702132799,-25.529515712411399,0 -49.335637027341299,-25.5297108345171,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.334955220383797,-25.531476847167401,0 -49.335637027341299,-25.5297108345171,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.333352837404412,-25.5277274767035,0 -49.334148483773703,-25.527982395592801,0 -49.334985051272909,-25.528253759600499,0 -49.335503355252499,-25.528421883287699,0</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>CICLORROTA</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CICLORROTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-49.336683410942008,-25.527057088012199,0 -49.336956097188001,-25.526331281269901,0</coordinates></LineString>
+  </Placemark>
+</Folder>
+<Folder><name>PARACICLO</name>
+</Folder>
+<Folder><name>Features</name>
+  <Placemark>
+	<name>1</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2433339610959,-25.489485376061499,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.243551018996698,-25.489323265403002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.240646621661398,-25.4949952755589,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2442875446107,-25.487536520921399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2446020825776,-25.487173749520899,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.249210844822798,-25.4774413655744,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.249530616928602,-25.4770670450498,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.250061585080999,-25.475697703138401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.282706134296397,-25.398224920121802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2692687267255,-25.416938710448701,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.271597217232099,-25.429619442063299,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.27549721599889,-25.432530553607499,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.272922217085998,-25.432472219988501,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.266994439026597,-25.436702775011401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267751543241793,-25.436692614474801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.270581789814003,-25.4082140705539,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.27056793385951,-25.4089079873903,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.353509392606703,-25.427904871991501,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.240850510183897,-25.4948608498086,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.254070370422802,-25.436828717486101,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.251434853826296,-25.442092732629,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.250038928300597,-25.443289625399199,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2482835149858,-25.446376775833301,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.246012051909297,-25.448734038812201,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2451212882116,-25.450837121818299,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.236308124211,-25.462488615196708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2348384715592,-25.4654907492882,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.225170101779703,-25.477743073819799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.222931828673097,-25.4811873347717,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.219874244835196,-25.485333441438499,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.214875295281402,-25.4916976108513,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.212247571589891,-25.495646851786699,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.209914265691097,-25.498783770138001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.217811577269998,-25.4874659447242,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.205749450269501,-25.5052533435342,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.32449055343519,-25.4740729697569,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.21508404548581,-25.491462846066799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.245094269748499,-25.449907172279399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.218127662325898,-25.487724526365898,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2274966669899,-25.4745675459978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2352338334859,-25.506051633885502,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.234661100735792,-25.507468949420002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.232663989415897,-25.511327231933802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.232022506397001,-25.512930647577502,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.22079564368719,-25.527465644916202,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.221618200667798,-25.527378800328702,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.228001707867101,-25.521169130670302,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.228471498586103,-25.519998568150999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.229637113114812,-25.517840957979509,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.321534181040597,-25.470525277685599,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.322006431394414,-25.471174730289999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.247128794735303,-25.4811944459031,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.295674750595794,-25.513378507538899,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.26948834142641,-25.427192397654409,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.273783647702992,-25.4263958276244,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.274234358488997,-25.423643068802999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.270407649674802,-25.4317251482938,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.264735460745001,-25.4292935211617,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.274865906991302,-25.4208117448118,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.27354840254911,-25.4308747096565,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.256183214677201,-25.434800061869399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>62</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.274464207742,-25.435760601338099,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2728904133523,-25.434346719933501,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.271902842989,-25.443206896410999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.27069890223359,-25.434694183558101,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.308379655401403,-25.426972158311901,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.208186913791401,-25.4689174092325,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>68</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.350060338351099,-25.483938625731401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.241191831466402,-25.393410880421399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>70</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.264580679859002,-25.427158298871699,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>71</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267271615149397,-25.414419565087201,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.350781545675297,-25.413458354713001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>73</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2427790049245,-25.490912394556901,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>74</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.250270774082402,-25.4755470880865,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>75</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.32763209640521,-25.473719814833601,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>76</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.334997497401602,-25.479249156932799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>77</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.260189012076403,-25.431281992386999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>78</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.265333256117998,-25.432605276327099,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>79</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.249723415688003,-25.422632467658399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>80</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.268227492858991,-25.424140820081501,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.269983255111597,-25.4093775385575,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>82</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.26671840055031,-25.410595009342298,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>83</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267540420248203,-25.409129610866302,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.272189095928198,-25.427802955804701,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>85</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.256141237663499,-25.43811292318,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>86</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.221704083606703,-25.440079517462902,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>87</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.214908448466502,-25.451843726020901,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>88</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.246651630131602,-25.4823720920459,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>89</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.230594879168997,-25.517003614838,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>90</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267968266872387,-25.534373074197799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.294550003317703,-25.512374556373199,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>92</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.324593250972299,-25.5116700860696,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>93</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2936452992261,-25.4921915856197,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>94</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.326426013929193,-25.4775369049744,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.292684004025297,-25.4762961061185,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>96</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.346934364694597,-25.4416324285435,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>97</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.308070561412599,-25.436136692701599,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>98</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.328331762986799,-25.401727422821509,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>99</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2624795046735,-25.377486863920801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>100</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.252694617297102,-25.406612624400701,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2054594861456,-25.4126490208508,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>102</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2687978911922,-25.431038713731802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267075059402799,-25.429399876441099,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>104</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2622462649162,-25.362527723512208,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>105</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.265348679990403,-25.382305932489398,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>106</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.258302037010203,-25.4370537609983,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>107</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.288001277168597,-25.4046142806496,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>108</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.282004094894901,-25.378667289078098,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>109</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.230680219405393,-25.390547440532899,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>110</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.241549418754197,-25.442330167201,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.261947975896298,-25.426770526211801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>112</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.251905755390901,-25.414137553262801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>113</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.267670187759592,-25.429087033624899,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>114</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.326656967412703,-25.4779539892474,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>115</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.237924181724701,-25.501434872762498,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>116</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.2313300461133,-25.5598393494021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>117</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.350811597558703,-25.423506939432201,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>118</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.348314520696697,-25.4207638838609,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>119</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.349621298970199,-25.416836657729299,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>120</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.346409705284813,-25.410590792156899,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>121</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.342308265630102,-25.409015122235001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>122</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.336174542992403,-25.406791754072799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>123</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.335329865069802,-25.403740654650399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>124</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.306765189110109,-25.435942662885999,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>125</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.239821860865597,-25.496690462159801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>126</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.240094194841802,-25.4964199911573,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>127</name>
+	<ExtendedData><SchemaData schemaUrl="#Features">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-49.242504203075796,-25.491178204035808,0</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="CICLOFAIXA__VIA_CALMA_" id="CICLOFAIXA__VIA_CALMA_">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="snippet" type="string"></SimpleField>
+</Schema>
+<Schema name="CICLORROTA" id="CICLORROTA">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="snippet" type="string"></SimpleField>
+</Schema>
+<Schema name="Features" id="Features">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="snippet" type="string"></SimpleField>
+</Schema>
+</Document></kml>

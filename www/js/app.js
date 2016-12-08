@@ -51,8 +51,24 @@
 
     $scope.map = new google.maps.Map(document.getElementById("map"), mapOptions);
 
+//    loadKmlLayer('http://localhost:8100/img/cicloviarios.kml', $scope.map);
+    loadKmlLayer('https://developers.google.com/maps/documentation/javascript/examples/kml/westcampus.kml', $scope.map);
+
   }, function(error){
     console.log("Could not get location");
   });
 });
+
+function loadKmlLayer(src, map) {
+  var kmlLayer = new google.maps.KmlLayer(src, {
+    suppressInfoWindows: true,
+    preserveViewport: false,
+    map: map
+  });
+  google.maps.event.addListener(kmlLayer, 'click', function(event) {
+    var content = event.featureData.infoWindowHtml;
+    var testimonial = document.getElementById('capture');
+    testimonial.innerHTML = content;
+  });
+}
 
