@@ -2,6 +2,6 @@
   "name": "Mais Bici",
   "description": "Projeto que pretende centralizar todas as informações sobre ciclomobilidade na cidade de Curitiba",
   "repository": "https://github.com/CodeForCuritiba/mais_bici",
-  "logo": "",
+  "logo": "https://github.com/CodeForCuritiba/mais_bici/blob/master/docs/images/id/logo.png",
   "keywords": ["ionic", "nodejs"]
 }
